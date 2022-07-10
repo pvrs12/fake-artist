@@ -1,1 +1,1 @@
-## [Visit the page for this project to play the game!](https://tamera-lanham.github.io/fake-artist/)
+## [Visit the page for this project to play the game!](https://pvrs12.github.io/fake-artist/)
